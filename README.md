@@ -4,7 +4,12 @@ Naše skupinka se skládá ze tří členů: Tomáš Černý, Michal Jurák, Mar
 
 
 Náš projekt bude mobilní aplikace, která bude uživateli ukazovat stav počasí v jeho vybrané lokalitě.
-- v aplikaci si bude uživatel moct vybrat danou lokalitu, u které se mu ukáže kolik je stupňů a stav počasí (Jasno, déšť...)
+- V aplikaci si bude uživatel moct vybrat danou lokalitu, u které se mu ukáže kolik je stupňů a stav počasí (Jasno, déšť...)
 - Aplikace je určena zcela pro každého a bude velmi jednoduchá na použití.
 - Aplikace slouží hlavně k informativním účelům.
+- Projekt je psán v jazyce Dart a v programu Flutter
+
+
+
+
 
